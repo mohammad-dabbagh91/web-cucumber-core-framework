@@ -1,0 +1,10 @@
+/Users/mohammaddabbagh/Documents/GitHub/QA_Automation/src/main/java/managers/PageObjectManager.java
+/Users/mohammaddabbagh/Documents/GitHub/QA_Automation/src/main/java/dataProviders/ConfigFileReader.java
+/Users/mohammaddabbagh/Documents/GitHub/QA_Automation/src/main/java/managers/AllDriverManager.java
+/Users/mohammaddabbagh/Documents/GitHub/QA_Automation/src/main/java/enums/Context.java
+/Users/mohammaddabbagh/Documents/GitHub/QA_Automation/src/main/java/utilities/Wait.java
+/Users/mohammaddabbagh/Documents/GitHub/QA_Automation/src/main/java/managers/FileReaderManager.java
+/Users/mohammaddabbagh/Documents/GitHub/QA_Automation/src/main/java/utilities/ScenarioContext.java
+/Users/mohammaddabbagh/Documents/GitHub/QA_Automation/src/main/java/enums/EnvironmentType.java
+/Users/mohammaddabbagh/Documents/GitHub/QA_Automation/src/main/java/enums/DriverType.java
+/Users/mohammaddabbagh/Documents/GitHub/QA_Automation/src/main/java/utilities/TestContext.java
